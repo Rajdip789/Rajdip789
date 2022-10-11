@@ -1,8 +1,6 @@
 <h1>Hi there!👋, I'm Rajdip Pal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdip789&label=Profile%20views&color=0e75b6&style=flat" alt="rajdip789" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rajdip141" target="blank"><img src="https://img.shields.io/twitter/follow/@rajdip141?logo=twitter&style=for-the-badge" alt="@rajdip141" /></a> </p>
-
 - 🔭 Currently learning **web development & design patterns**
 
 - 👯 Looking to collaborate on **open source projects**
