@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### *<div align="center">Hi there!👋, I'm Rajdip Pal</div>*  
+### *<div align="center"><h1>Hi there!👋, I'm Rajdip Pal</h1></div>*  
   
 
 - *👨‍🎓 Currently pursuing B.Tech in Computer Science and Technology from [GCELT](https://gcelt.gov.in/)*  
@@ -97,15 +92,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rajdip789&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
+ 
   
 
 <br/>  
@@ -119,6 +106,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
