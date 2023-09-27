@@ -4,7 +4,7 @@
 - *👨‍🎓 Currently pursuing B.Tech in Computer Science and Technology from [GCELT](https://gcelt.gov.in/)*  
   
 
-- *🔭 Currently learning about spring framework & design patterns*  
+- *🔭 Currently learning system design & low level design patterns*  
   
 
 <!-- - *🔍 Looking forward to collaborate in beginner friendly Open Source Projects.*   -->
