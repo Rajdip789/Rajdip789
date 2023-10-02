@@ -1,3 +1,5 @@
+[![@rajdip789's Holopin badges](https://holopin.me/rajdip789)](https://holopin.io/@rajdip789)
+
 ### *<div align="center"><h1>Hi there!👋, I'm Rajdip Pal</h1></div>*  
   
 
@@ -102,7 +104,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rajdip789&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdip789&show_icons=true&locale=en&layout=compact" alt="Rajdip789" /></div>
+<br>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdip789&" alt="Rajdip789" />&emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajdip789&show_icons=true&count_private=true&hide_border=true"/>
+</div>  
  
   
 
